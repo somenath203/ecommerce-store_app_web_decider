@@ -1,4 +1,4 @@
-# ecommerce-store_app_web_decider
+# Ecommerce-Store App Web Decider
 
 This is a basic machine learning project created using **Linear Regression**. 
 
