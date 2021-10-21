@@ -11,4 +11,4 @@ This is actually a solution to the following question :-
 
 *The company is trying to decide whether to focus their efforts on their mobile app experience or their website. They've hired you on contract to help them figure it out!*
 
-*Write a Linear Regression Model to predict what will be the best for the company.*
+*Write a Linear Regression Model to predict wether website will be the best for the company or mobile app.*
